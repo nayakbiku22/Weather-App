@@ -1,0 +1,1 @@
+This is a basic weather app using html css(tailwind) and javaScript
